@@ -1,0 +1,16 @@
+site_name: 二师兄
+site_author: Jeremy boo
+
+# Repository
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
+
+theme:
+  name: material
+
+# Copyright
+copyright: Copyright &copy; 2018 - 2023 Martin Donath
+
+# Page tree
+nav:
+- Home: index.md
